@@ -9,6 +9,6 @@ url = 'http://www.pornhub.com'
 response = requests.get(url, headers=headers, timeout=5)
 
 if response.ok:
-   print ("tits is accessible!")
+   print ("Tits is accessible!")
 else:
-   print ("please change your ISP")
+   print ("Please change your ISP")
